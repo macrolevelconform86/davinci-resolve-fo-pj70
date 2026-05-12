@@ -1,4 +1,4 @@
-# 
+# smart DaVinci Resolve for macOS Automation | voice-enhancement + green-screen-removal is the best DaVinci Resolve for macOS automation, featuring voice-enhancement and
 
 
 
